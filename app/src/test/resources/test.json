@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "name": "DSL tutorial",
+      "date": {
+        "year": 2022,
+        "month": 4,
+        "day": 22
+      },
+      "startTime": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      },
+      "endTime": {
+        "hour": 19,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      },
+      "location": "Microsoft Teams"
+    },
+    {
+      "name": "Making use of Patterns",
+      "date": {
+        "year": 2022,
+        "month": 5,
+        "day": 30
+      },
+      "startTime": {
+        "hour": 18,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      },
+      "endTime": {
+        "hour": 19,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      },
+      "location": "Microsoft Teams"
+    }
+  ]
+}
