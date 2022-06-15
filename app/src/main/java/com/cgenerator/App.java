@@ -1,4 +1,4 @@
-package com;
+package com.cgenerator;
 
 public final class App {
 	private App() {
