@@ -3,6 +3,9 @@
         "k--kato.intellij-idea-keybindings",
         "ms-vscode.hexeditor",
         "vscjava.vscode-java-pack",
-        "hediet.vscode-drawio"
+        "hediet.vscode-drawio",
+        "visualstudioexptteam.vscodeintellicode",
+        "richardwillis.vscode-gradle-extension-pack",
+        "wmanth.jar-viewer"
     ]
 }   

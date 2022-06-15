@@ -1,3 +1,19 @@
-# fluent-api-dsl
+* Deep dive into code generation
 
-Fluent Interface (Internal DSL)
+- What is Code Generation?
+
+- Why Code Generation?
+
+- How Can We Use Code Generation?
+
+- Code Generation Tools
+
+- Parser Generation
+
+- Write a simple code generator based on Java Annotation processor
+
+- Best practices
+
+- Questions
+
+- Topics for further events
